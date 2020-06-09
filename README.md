@@ -1,4 +1,4 @@
-![A complete mess](https://raw.githubusercontent.com/Butanediol/Telegram-Inline-Weather-Bot/master/1.jpg)
+![A complete mess](https://github.com/Butanediol/Telegram-Inline-Weather-Bot/blob/master/media/1.jpg?raw=true)
 
 # Telegram Inline Weather Bot
 

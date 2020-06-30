@@ -12,7 +12,7 @@
 
 ## 安装 Requirements
 
-`pip3 install python-telegram-bot rich`
+`pip(3) install python-telegram-bot rich`
 
 ## 运行
 
@@ -38,5 +38,5 @@ optional arguments:
 
 例如：
 
-`python3 bot.py 123456789:abcdefghijklmnopqrstuvwxyzABCDEFGHI`
+`python(3) bot.py 123456789:abcdefghijklmnopqrstuvwxyzABCDEFGHI`
 
